@@ -1,0 +1,9 @@
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\bin\Debug\LyThuyetHeDieuHanh.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\bin\Debug\LyThuyetHeDieuHanh.exe
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\bin\Debug\LyThuyetHeDieuHanh.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\obj\Debug\MemoryLocation.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\obj\Debug\LyThuyetHeDieuHanh.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\obj\Debug\LyThuyetHeDieuHanh.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\obj\Debug\MemoryLocation.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\obj\Debug\LyThuyetHeDieuHanh.exe
+C:\Users\DELL\Documents\Visual Studio 2012\LyThuyetHeDieuHanh\LyThuyetHeDieuHanh\obj\Debug\LyThuyetHeDieuHanh.pdb
